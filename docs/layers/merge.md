@@ -11,7 +11,7 @@ keras.layers.merge.Add()
 该层接收一个列表的同shape张量，并返回它们的和，shape不变。
 
 ## Multiply
-``python
+```python
 keras.layers.merge.Multiply()
 ```
 该层接收一个列表的同shape张量，并返回它们的逐元素积的张量，shape不变。
