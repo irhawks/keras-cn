@@ -340,7 +340,7 @@ keras.layers.convolutional.Cropping2D(cropping=((0, 0), (0, 0)), data_format=Non
 ```python
 keras.layers.convolutional.Cropping3D(cropping=((1, 1), (1, 1), (1, 1)), data_format=None)
 ```
-对2D输入（图像）进行裁剪
+对3D输入（空间或者时空数据）进行裁剪
 
 ### 参数
 
